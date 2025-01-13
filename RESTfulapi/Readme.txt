@@ -5,8 +5,8 @@ POST http://localhost/RESTfulapi/user
 Content-Type: application/json
 
 {
-    "name": "John Doe",
-    "email": "john@example.com"
+    "name": "ravi",
+    "email": "ravi@example.com"
 }
 
 GET http://localhost/RESTfulapi/user
@@ -18,8 +18,8 @@ Content-Type: application/json
 
 {
     "id": 1,
-    "name": "John Updated",
-    "email": "john.updated@example.com"
+    "name": "ravi Updated",
+    "email": "ravi.updated@example.com"
 }
 
 DELETE http://localhost/RESTfulapi/user
